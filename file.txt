@@ -1,1 +1,2 @@
 Alex Khatilov Sunday School
+log: git command
